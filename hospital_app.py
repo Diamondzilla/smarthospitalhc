@@ -9,9 +9,9 @@ st.set_page_config(page_title="Smart Hospital By Haziq", page_icon="🏥", layou
 st.markdown("""
 <style>
 #MainMenu { visibility: hidden; }
-header[data-testid="stHeader"] (display: none;)
-.stDeployButton (display: none;)
-footer (visibility: hidden;)
+header[data-testid="stHeader"] {display: none;}
+.stDeployButton {display: none;}
+footer {visibility: hidden;}
 
 </style>
 """, unsafe_allow_htm1=True)
