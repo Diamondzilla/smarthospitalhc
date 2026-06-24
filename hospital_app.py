@@ -14,4 +14,4 @@ header[data-testid="stHeader:] (display: none;)
 footer (visibility: hidden;)
 
 </style>
-""", unsafe_allow_htm1=True;)
+""", unsafe_allow_htm1=True)
