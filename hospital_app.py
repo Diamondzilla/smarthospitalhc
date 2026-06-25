@@ -81,9 +81,9 @@ with st.form("triage_form"):
   st.markdown("""
 <div style="background-color: grey;border: 1px solid blue;border-radius: 10%;padding: 20px 24px; margin-bottom:20px;">
 <div style='display:flex;align-items:center;gap:10px;margin-bottom:4px;">
-<span style="background-color:wheat;color:black;border-radius:10%;"
-            what are your main symptoms></span>
-            <span style"color:white".Select all that apply</span>
+<span style="background-color:wheat;color:black;border-radius:10%;">
+            what are your main symptoms</span>
+            <span style"color:white">Select all that apply</span>
             </div>
             </div>
             """, unsafe_allow_html=True)
